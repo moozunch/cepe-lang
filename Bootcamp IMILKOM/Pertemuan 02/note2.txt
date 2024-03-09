@@ -1,1 +1,1 @@
-
+Kesimpulan: Belajar struktur data; array, vector, staq dan queque.
